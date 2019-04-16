@@ -1,0 +1,2 @@
+class Tess < ApplicationRecord
+end
